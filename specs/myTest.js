@@ -4,7 +4,7 @@ var makeApiCall = require('../specs/apicall')
 var convert = require('xml-js');
 
 
-describe('Angular App', () => {
+describe('Making a api call and parsing response', () => {
     beforeEach(async () => {
     });
 
